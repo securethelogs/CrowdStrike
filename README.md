@@ -10,3 +10,11 @@ This script allows you to run an on demand scan against file/s via the API.
 
 How to Run: https://securethelogs.com/2021/11/29/crowdstrike-on-demand-scan-v1/
 Script: https://github.com/securethelogs/CrowdStrike/blob/main/API_Scripts/On-Demand-Scan.ps1
+
+## CS-MalQuery
+![malquery](https://ctrla1tdel.files.wordpress.com/2021/11/cs-mal.png?w=1024)
+
+This script allows you to query SHA256 hashes against FalconX IOC DB and Hybrid-Analysis
+
+How to Run: https://securethelogs.com/2021/11/12/cs-malquery-part-2/
+Script: https://github.com/securethelogs/CrowdStrike/blob/main/API_Scripts/CS-MalQuery.ps1
