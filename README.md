@@ -23,7 +23,7 @@ Script: https://github.com/securethelogs/CrowdStrike/blob/main/API_Scripts/CS-Ma
 
 
 ## Log4J RTR Scripts
-![log4j](https://ctrla1tdel.files.wordpress.com/2021/12/apache_log4j_logo.png)
+![log4j](https://ctrla1tdel.files.wordpress.com/2021/12/image-6.png?w=1024)
 
 These scripts help you run CrowdStrikes CAST and automate the RTR process using PSFalcon.
 
