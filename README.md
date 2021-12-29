@@ -20,3 +20,13 @@ This script allows you to query SHA256 hashes against FalconX IOC DB and Hybrid-
 How to Run: https://securethelogs.com/2021/11/12/cs-malquery-part-2/
 
 Script: https://github.com/securethelogs/CrowdStrike/blob/main/API_Scripts/CS-MalQuery.ps1
+
+
+## Log4J RTR Scripts
+![log4j](https://ctrla1tdel.files.wordpress.com/2021/12/apache_log4j_logo.png)
+
+These scripts help you run CrowdStrikes CAST and automate the RTR process using PSFalcon.
+
+How to Run: https://securethelogs.com/2021/12/29/log4j-crowdstrike-rtr-script/
+
+Scripts: https://github.com/securethelogs/CrowdStrike/tree/main/Log4J_Scripts
